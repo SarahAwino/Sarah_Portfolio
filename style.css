@@ -1,0 +1,65 @@
+.navbar {
+    background-color: aqua;
+}
+.logo{
+    background-color: aquamarine;
+}
+.logo img {
+    border-style: double;
+    border-width: 5px;
+border-radius: 5px;
+}
+.navbar li{
+    display:inline;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    color: fuchsia;
+    width: 100px;
+    text-transform: uppercase;
+    line-height: 30px;
+    margin: 1%;
+}
+.navbar li:hover {
+    background-color: chartreuse;
+    padding: 10px;
+}
+.image img {
+    height: 500px;
+    width: 500px;
+    float: left;
+    width: 50%;
+
+}
+.image {
+position: absolute;
+width: 70%;
+height: 70%;
+left: 2%;
+top: 20%;
+background-color: darkorange;
+padding: 30px;
+padding-left: 2%;
+padding-right: 26%;
+padding-bottom: 5%;
+}
+.image p {
+    font: larger;
+    font-size: large;
+    font-style: normal;
+    color: brown;
+    text-rendering: geometricPrecision;
+    text-indent: 5%;
+    font-style: italic;
+    font-weight: bold;
+    top: 20%;
+
+
+}
+.image h2{
+    color: blue;
+    font-style: oblique;
+    text-indent: 10%;
+    padding-top: 10%;
+}
